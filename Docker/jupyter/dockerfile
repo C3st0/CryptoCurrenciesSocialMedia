@@ -1,0 +1,12 @@
+FROM jupyter/scipy-notebook
+
+RUN python --version
+
+RUN pip install -U seaborn \
+                   wordcloud \
+                   keras \
+                   tensorflow \
+                   nltk
+
+VOLUME /notebooks
+WORKDIR home/notebooks
