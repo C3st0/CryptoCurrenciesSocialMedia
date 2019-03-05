@@ -1,0 +1,8 @@
+docker ps -a
+
+docker run -p 8888:8888 -v ~/notebooks:/home/jovyan jupiter
+
+
+docker container prune
+
+docker stop dreamy_wing
