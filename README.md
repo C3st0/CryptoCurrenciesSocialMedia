@@ -1,5 +1,5 @@
 # CryptoCurrenciesSocialMedia
-Project goal is to analyse current influences of social media (Tweeter) on Bitcoin rate, as of now (Q1 2019).
+Project goal is to analyse influences of social media, in particular Tweeter, on Bitcoin rate, in the current time period (Q1 2019). Therefore, we will apply different machine learning methods and algorithms to identify common trends and make forecasts as acrate as possible.
 ![Image of Tweet](Pictures/twitterbitcoin.jpg)
 
 ## Approach
