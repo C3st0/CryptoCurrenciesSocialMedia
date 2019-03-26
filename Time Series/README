@@ -1,0 +1,3 @@
+# In this folder you see Bitcoin TimeSeries Analysis
+# As well as the dataset of bitcoin/ USD hourly exchange rate 
+# And forcasting the log return of the exchange rate for 12 hours (starting from 14-03-2019)
