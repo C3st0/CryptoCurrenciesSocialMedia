@@ -1,4 +1,4 @@
-To run the code, open the file in colab (top icon)
+To run the code, open the file Jupiter file here (github we interface), then lauchn it in colab (top icon)
 
 Two versions of the code are the following:
 
